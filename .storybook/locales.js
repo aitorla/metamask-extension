@@ -11,6 +11,7 @@ import * as en from '../app/_locales/en/messages.json';
 import * as es from '../app/_locales/es/messages.json';
 import * as es_419 from '../app/_locales/es_419/messages.json';
 import * as et from '../app/_locales/et/messages.json';
+import * as eu from '../app/_locales/eu/messages.json';
 import * as fa from '../app/_locales/fa/messages.json';
 import * as fi from '../app/_locales/fi/messages.json';
 import * as fil from '../app/_locales/fil/messages.json';
